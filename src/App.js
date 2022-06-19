@@ -16,7 +16,7 @@ function App() {
       <Navbar/>
       <div className="component">
       <Switch>
-        <Route exact path="/">
+        <Route exact path="/React_Blog">
           <Home/>
         </Route>
         <Route path="/create">
