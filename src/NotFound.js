@@ -5,7 +5,7 @@ import { Link } from "react-router-dom";
         <div>
             <h1>Sorry</h1>          
             <p>The page you are looking for does not exist</p>     
-            <Link to="/">Back to HomePage ......</Link>
+            <Link to="/React_Blog">Back to HomePage ......</Link>
         </div>
        
       );

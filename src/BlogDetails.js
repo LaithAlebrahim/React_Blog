@@ -10,7 +10,7 @@ const BlogDetails = () => {
                 method:'DELETE'
             }).then(()=>{
                 console.log('Blog Deleted');
-                history.push('/');
+                history.push('/React_Blog');
 
             })
     }

@@ -23,7 +23,7 @@ const Create = () => {
                 console.log('Blog Created');
                 setPending(false);
              //   history.go(-1);
-             history.push('/');
+             history.push('/React_Blog');
             })
            
         }
